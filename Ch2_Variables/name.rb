@@ -1,9 +1,6 @@
-print "Please type in your name: "
-name = gets.chomp
+print "Please type in your first name: "
+first_name = gets.chomp
+print "Please type in your last name: "
+last_name = gets.chomp
 
-puts "Hi there, #{name}."
-
-# You don't have to have the block parameter if you don't want
-10.times do
-  puts name
-end
+puts "#{first_name} #{last_name}"
