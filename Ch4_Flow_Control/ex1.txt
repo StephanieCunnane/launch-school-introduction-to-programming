@@ -1,0 +1,13 @@
+1. false
+2. false
+3. false
+4. true
+5. (!true || (!(100 / 5) == 20) || ((328 / 4) == 82)) || false
+5. (!true || (!20 == 20) || ((328 / 4) == 82))        || false
+5. (!true || (false == 20) || ((328 / 4) == 82))      || false
+5. (!true || false || ((328 / 4) == 82))              || false
+5. (!true || false || (82 == 82))                     || false
+5. (!true || false || true)                           || false
+5. (false || false || true)                           || false
+5. true                                               || false
+5. true
