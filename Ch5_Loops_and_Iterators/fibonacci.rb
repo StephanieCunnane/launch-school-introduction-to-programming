@@ -1,4 +1,4 @@
-# Code to determine the nth number in a Fibonacci sequence (that starts at 1)
+# Code to determine the nth number in the Fibonacci sequence (that starts at 1)
 def fibonacci(number)
   if number < 2
     number
