@@ -1,0 +1,7 @@
+Exception handling is the process of anticipating places in
+your code where an error (an exception) might occur and writing
+a piece of alternative code to run in case the error crops up.
+The alternative code can then be run and program execution can continue.
+
+Exception handling is a way to avoid having an error stop the
+execution of your program.
