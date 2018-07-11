@@ -5,3 +5,7 @@ numbers.each do |num|
     puts num
   end
 end
+
+# or
+
+numbers.each { |num| puts num if num > 5 }
