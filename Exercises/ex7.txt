@@ -1,0 +1,3 @@
+An array is an ordered collection, whereas a hash is a collection that associates keys with values.
+If order is important, use an array.
+If the data values need labels, use a hash.
